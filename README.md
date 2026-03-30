@@ -7,5 +7,3 @@ A tool for visualizing document page elements using [Docling](https://github.com
 - Visualize document layout and structure
 - Display extracted elements and their bounding boxes
 - Support for multiple document formats
-
-See `requirements.txt` for additional dependencies.
